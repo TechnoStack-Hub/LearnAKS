@@ -24,4 +24,6 @@
    [Kubernetes Instance Calculator](https://learnk8s.io/kubernetes-instance-calculator)
 ### 5. AKS Learning Path
    [Learning Path](https://github.com/microsoft/kubernetes-learning-path)
+### 6. AKS Labs
+[AKS Labs](https://github.com/Gordonby/AksLabs)
 
