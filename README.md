@@ -5,3 +5,10 @@
 Link - https://azure.microsoft.com/en-us/blog/introducing-azure-container-service-aks-managed-kubernetes-and-azure-container-registry-geo-replication/
 #### **2. AKS GA - June 13, 2018**
 Link - https://learn.microsoft.com/en-us/shows/azure-friday/azure-kubernetes-service-aks-ga
+
+### AKS Architecture Reference:
+#### **- AKS Baseline Architecture**
+- Link - https://github.com/mspnp/aks-baseline
+#### **- AKS Advanced Microservices Architecture**
+- Link - https://github.com/mspnp/microservices-reference-implementation
+   - Link - https://github.com/mspnp/aks-fabrikam-dronedelivery
