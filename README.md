@@ -22,4 +22,6 @@
   [Tracker](https://docs.google.com/spreadsheets/d/191WWNpjJ2za6-nbG4ZoUMXMpUK8KlCIosvQB0f-oq3k/edit#gid=907731238)
 ### 4. Kubernetes Instance Calculator
    [Kubernetes Instance Calculator](https://learnk8s.io/kubernetes-instance-calculator)
+### 5. AKS Learning Path
+   [Learning Path](https://github.com/microsoft/kubernetes-learning-path)
 
