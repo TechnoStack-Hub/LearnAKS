@@ -27,6 +27,7 @@
 4. [AKS Enterprise Grade by WTH](https://github.com/microsoft/WhatTheHack/tree/master/039-AKSEnterpriseGrade)
 5. [Advanced Kubernetes by WTH](https://github.com/microsoft/WhatTheHack/tree/master/023-AdvancedKubernetes)
 
+
 ### 6. AKS History:
   #### 1. AKS Preview - Oct 24, 2017
    Link - https://azure.microsoft.com/en-us/blog/introducing-azure-container-service-aks-managed-kubernetes-and-azure-container-registry-geo-replication/
@@ -44,4 +45,8 @@
 2. [AKS Roadmap](https://github.com/Azure/AKS/projects/1)
 3. [AKS Releases](https://github.com/Azure/AKS/releases)
 4. [AKS Changelog](https://github.com/Azure/AKS/blob/master/CHANGELOG.md)
+5. [AKS Hybrid Deployment](https://aka.ms/aks-hybrid)
+6. [AKS Preview Features](https://aka.ms/aks/preview-features)
+7. [AKS Public community channel](https://twitter.com/theakscommunity)
+8. [AKS Updates - New Features](https://azure.microsoft.com/en-us/updates/?product=kubernetes-service)
 
