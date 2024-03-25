@@ -30,4 +30,9 @@
 3. [IntroToKubernetes by WTH](https://github.com/Microsoft/WhatTheHack/tree/master/001-IntroToKubernetes)
 4. [AKS Enterprise Grade by WTH](https://github.com/microsoft/WhatTheHack/tree/master/039-AKSEnterpriseGrade)
 5. [Advanced Kubernetes by WTH](https://github.com/microsoft/WhatTheHack/tree/master/023-AdvancedKubernetes)
+### 6. Cheat sheets
+1. [AKS Cheat sheet](https://gist.github.com/yokawasa/fd9d9b28f7c79461f60d86c23f615677)
+2. [kubectl Cheat sheet](https://kubernetes.io/docs/reference/kubectl/quick-reference/)
+3. [kubernetes Cheat sheet](https://gist.github.com/tuannvm/4e1bcc993f683ee275ed36e67c30ac49)
+4. [helm Cheat sheet](https://gist.github.com/tuannvm/4e1bcc993f683ee275ed36e67c30ac49#file-helm-cheatsheet-md)
 
