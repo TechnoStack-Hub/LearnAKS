@@ -39,6 +39,9 @@
 2. [kubectl Cheat sheet](https://kubernetes.io/docs/reference/kubectl/quick-reference/)
 3. [kubernetes Cheat sheet](https://gist.github.com/tuannvm/4e1bcc993f683ee275ed36e67c30ac49)
 4. [helm Cheat sheet](https://gist.github.com/tuannvm/4e1bcc993f683ee275ed36e67c30ac49#file-helm-cheatsheet-md)
-### 8. Check-list
-[AKS Check-list](https://www.the-aks-checklist.com/)
+### 8. Other Trackers
+1. [AKS Check-list](https://www.the-aks-checklist.com/)
+2. [AKS Roadmap](https://github.com/Azure/AKS/projects/1)
+3. [AKS Releases](https://github.com/Azure/AKS/releases)
+4. [AKS Changelog](https://github.com/Azure/AKS/blob/master/CHANGELOG.md)
 
