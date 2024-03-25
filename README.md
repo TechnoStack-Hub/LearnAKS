@@ -25,5 +25,9 @@
 ### 5. AKS Learning Path
    [Learning Path](https://github.com/microsoft/kubernetes-learning-path)
 ### 6. AKS Labs
-[AKS Labs](https://github.com/Gordonby/AksLabs)
+1. [AKS Labs Curated List by Gordon Byers](https://github.com/Gordonby/AksLabs)
+2. [AKS Labs by kubernetes-hackfest](https://github.com/Azure/kubernetes-hackfest)
+3. [IntroToKubernetes by WTH](https://github.com/Microsoft/WhatTheHack/tree/master/001-IntroToKubernetes)
+4. [AKS Enterprise Grade by WTH](https://github.com/microsoft/WhatTheHack/tree/master/039-AKSEnterpriseGrade)
+5. [Advanced Kubernetes by WTH](https://github.com/microsoft/WhatTheHack/tree/master/023-AdvancedKubernetes)
 
